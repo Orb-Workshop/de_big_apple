@@ -6552,3 +6552,138 @@ If you'd like to support us, you can do so here:
 https://ko-fi.com/radgen
 
 Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.6125 sec
+Time to read vmap from disk: 00.1783 sec
+Time to process data from vmap: 00.1049 sec
+Total processing time: 02.5799 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9315 sec
+Time to read vmap from disk: 00.0897 sec
+Time to process data from vmap: 00.0569 sec
+Total processing time: 01.6653 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8440 sec
+Time to read vmap from disk: 00.0621 sec
+Time to process data from vmap: 00.0550 sec
+Total processing time: 01.5513 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
