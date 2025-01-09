@@ -6785,3 +6785,3197 @@ If you'd like to support us, you can do so here:
 https://ko-fi.com/radgen
 
 Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.7210 sec
+Time to read vmap from disk: 00.1512 sec
+Time to process data from vmap: 00.0941 sec
+Total processing time: 02.6774 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.0536 sec
+Time to read vmap from disk: 00.0765 sec
+Time to process data from vmap: 00.0904 sec
+Total processing time: 01.7946 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9609 sec
+Time to read vmap from disk: 00.0536 sec
+Time to process data from vmap: 00.0982 sec
+Total processing time: 01.6883 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9924 sec
+Time to read vmap from disk: 00.0483 sec
+Time to process data from vmap: 00.0595 sec
+Total processing time: 01.6913 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9246 sec
+Time to read vmap from disk: 00.0485 sec
+Time to process data from vmap: 00.0562 sec
+Total processing time: 01.6086 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8883 sec
+Time to read vmap from disk: 00.0480 sec
+Time to process data from vmap: 00.0221 sec
+Total processing time: 01.5754 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8963 sec
+Time to read vmap from disk: 00.0476 sec
+Time to process data from vmap: 00.0193 sec
+Total processing time: 01.5989 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9875 sec
+Time to read vmap from disk: 00.0489 sec
+Time to process data from vmap: 00.0525 sec
+Total processing time: 01.6581 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8862 sec
+Time to read vmap from disk: 00.0476 sec
+Time to process data from vmap: 00.0482 sec
+Total processing time: 01.5389 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9000 sec
+Time to read vmap from disk: 00.0484 sec
+Time to process data from vmap: 00.0217 sec
+Total processing time: 01.5715 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9396 sec
+Time to read vmap from disk: 00.0485 sec
+Time to process data from vmap: 00.0216 sec
+Total processing time: 01.6359 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0-prerelease3
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.0737 sec
+Time to read vmap from disk: 00.0478 sec
+Time to process data from vmap: 00.0215 sec
+Total processing time: 01.7351 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.7492 sec
+Time to read vmap from disk: 00.1470 sec
+Time to process data from vmap: 00.1115 sec
+Total processing time: 02.6864 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.0359 sec
+Time to read vmap from disk: 00.1068 sec
+Time to process data from vmap: 00.0870 sec
+Total processing time: 01.8528 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9780 sec
+Time to read vmap from disk: 00.0789 sec
+Time to process data from vmap: 00.0622 sec
+Total processing time: 01.7193 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.0044 sec
+Time to read vmap from disk: 00.0705 sec
+Time to process data from vmap: 00.0246 sec
+Total processing time: 01.7070 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.0579 sec
+Time to read vmap from disk: 00.0780 sec
+Time to process data from vmap: 00.0184 sec
+Total processing time: 01.7351 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9180 sec
+Time to read vmap from disk: 00.0493 sec
+Time to process data from vmap: 00.0453 sec
+Total processing time: 01.6114 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7658 sec
+Time to read vmap from disk: 00.0480 sec
+Time to process data from vmap: 00.0499 sec
+Total processing time: 01.4231 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.0125 sec
+Time to read vmap from disk: 00.0614 sec
+Time to process data from vmap: 00.0183 sec
+Total processing time: 01.7474 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8732 sec
+Time to read vmap from disk: 00.0480 sec
+Time to process data from vmap: 00.0484 sec
+Total processing time: 01.5495 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9357 sec
+Time to read vmap from disk: 00.0649 sec
+Time to process data from vmap: 00.0182 sec
+Total processing time: 01.6051 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9882 sec
+Time to read vmap from disk: 00.0699 sec
+Time to process data from vmap: 00.0181 sec
+Total processing time: 01.6563 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9010 sec
+Time to read vmap from disk: 00.0480 sec
+Time to process data from vmap: 00.0460 sec
+Total processing time: 01.5754 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8060 sec
+Time to read vmap from disk: 00.0480 sec
+Time to process data from vmap: 00.0221 sec
+Total processing time: 01.4905 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7967 sec
+Time to read vmap from disk: 00.0482 sec
+Time to process data from vmap: 00.0492 sec
+Total processing time: 01.4574 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7244 sec
+Time to read vmap from disk: 00.0483 sec
+Time to process data from vmap: 00.0479 sec
+Total processing time: 01.3849 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8193 sec
+Time to read vmap from disk: 00.0488 sec
+Time to process data from vmap: 00.0195 sec
+Total processing time: 01.4848 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8908 sec
+Time to read vmap from disk: 00.0483 sec
+Time to process data from vmap: 00.0475 sec
+Total processing time: 01.5683 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7083 sec
+Time to read vmap from disk: 00.0675 sec
+Time to process data from vmap: 00.0183 sec
+Total processing time: 01.3807 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7776 sec
+Time to read vmap from disk: 00.0717 sec
+Time to process data from vmap: 00.0179 sec
+Total processing time: 01.4711 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8054 sec
+Time to read vmap from disk: 00.0481 sec
+Time to process data from vmap: 00.0514 sec
+Total processing time: 01.4592 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7116 sec
+Time to read vmap from disk: 00.0481 sec
+Time to process data from vmap: 00.0466 sec
+Total processing time: 01.3594 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8034 sec
+Time to read vmap from disk: 00.0481 sec
+Time to process data from vmap: 00.0485 sec
+Total processing time: 01.4607 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8173 sec
+Time to read vmap from disk: 00.0599 sec
+Time to process data from vmap: 00.0193 sec
+Total processing time: 01.4620 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7056 sec
+Time to read vmap from disk: 00.0490 sec
+Time to process data from vmap: 00.0456 sec
+Total processing time: 01.3584 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9478 sec
+Time to read vmap from disk: 00.0754 sec
+Time to process data from vmap: 00.0180 sec
+Total processing time: 01.6443 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8281 sec
+Time to read vmap from disk: 00.0486 sec
+Time to process data from vmap: 00.0457 sec
+Total processing time: 01.4754 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7120 sec
+Time to read vmap from disk: 00.0694 sec
+Time to process data from vmap: 00.0181 sec
+Total processing time: 01.3867 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7650 sec
+Time to read vmap from disk: 00.0484 sec
+Time to process data from vmap: 00.0506 sec
+Total processing time: 01.4341 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8448 sec
+Time to read vmap from disk: 00.0511 sec
+Time to process data from vmap: 00.0222 sec
+Total processing time: 01.5396 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7064 sec
+Time to read vmap from disk: 00.0582 sec
+Time to process data from vmap: 00.0553 sec
+Total processing time: 01.4029 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7536 sec
+Time to read vmap from disk: 00.0481 sec
+Time to process data from vmap: 00.0489 sec
+Total processing time: 01.4156 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8691 sec
+Time to read vmap from disk: 00.0619 sec
+Time to process data from vmap: 00.0201 sec
+Total processing time: 01.5396 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7411 sec
+Time to read vmap from disk: 00.0564 sec
+Time to process data from vmap: 00.0194 sec
+Total processing time: 01.4093 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7796 sec
+Time to read vmap from disk: 00.0736 sec
+Time to process data from vmap: 00.0183 sec
+Total processing time: 01.4440 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9990 sec
+Time to read vmap from disk: 00.0488 sec
+Time to process data from vmap: 00.0473 sec
+Total processing time: 01.6739 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 01.3077 sec
+Time to read vmap from disk: 00.0666 sec
+Time to process data from vmap: 00.0180 sec
+Total processing time: 02.0553 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9309 sec
+Time to read vmap from disk: 00.0694 sec
+Time to process data from vmap: 00.0179 sec
+Total processing time: 01.6006 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8985 sec
+Time to read vmap from disk: 00.0487 sec
+Time to process data from vmap: 00.0216 sec
+Total processing time: 01.5893 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8954 sec
+Time to read vmap from disk: 00.0483 sec
+Time to process data from vmap: 00.0468 sec
+Total processing time: 01.5799 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8870 sec
+Time to read vmap from disk: 00.0480 sec
+Time to process data from vmap: 00.0212 sec
+Total processing time: 01.5909 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.9514 sec
+Time to read vmap from disk: 00.0481 sec
+Time to process data from vmap: 00.0468 sec
+Total processing time: 01.6218 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8278 sec
+Time to read vmap from disk: 00.0485 sec
+Time to process data from vmap: 00.0477 sec
+Total processing time: 01.4786 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7052 sec
+Time to read vmap from disk: 00.0552 sec
+Time to process data from vmap: 00.0500 sec
+Total processing time: 01.3752 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7636 sec
+Time to read vmap from disk: 00.0683 sec
+Time to process data from vmap: 00.0167 sec
+Total processing time: 01.4618 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8413 sec
+Time to read vmap from disk: 00.0529 sec
+Time to process data from vmap: 00.0365 sec
+Total processing time: 01.5400 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7814 sec
+Time to read vmap from disk: 00.0546 sec
+Time to process data from vmap: 00.0557 sec
+Total processing time: 01.4790 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7845 sec
+Time to read vmap from disk: 00.0747 sec
+Time to process data from vmap: 00.0159 sec
+Total processing time: 01.5271 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7613 sec
+Time to read vmap from disk: 00.0531 sec
+Time to process data from vmap: 00.0503 sec
+Total processing time: 01.4687 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8383 sec
+Time to read vmap from disk: 00.0535 sec
+Time to process data from vmap: 00.0373 sec
+Total processing time: 01.5395 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7519 sec
+Time to read vmap from disk: 00.0530 sec
+Time to process data from vmap: 00.0360 sec
+Total processing time: 01.4293 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7631 sec
+Time to read vmap from disk: 00.0542 sec
+Time to process data from vmap: 00.0532 sec
+Total processing time: 01.4384 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7659 sec
+Time to read vmap from disk: 00.0821 sec
+Time to process data from vmap: 00.0160 sec
+Total processing time: 01.4531 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8434 sec
+Time to read vmap from disk: 00.0729 sec
+Time to process data from vmap: 00.0203 sec
+Total processing time: 01.5057 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7520 sec
+Time to read vmap from disk: 00.0753 sec
+Time to process data from vmap: 00.0160 sec
+Total processing time: 01.4197 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7674 sec
+Time to read vmap from disk: 00.0711 sec
+Time to process data from vmap: 00.0160 sec
+Total processing time: 01.4334 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7603 sec
+Time to read vmap from disk: 00.0775 sec
+Time to process data from vmap: 00.0162 sec
+Total processing time: 01.4413 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8067 sec
+Time to read vmap from disk: 00.0664 sec
+Time to process data from vmap: 00.0167 sec
+Total processing time: 01.4712 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7999 sec
+Time to read vmap from disk: 00.0742 sec
+Time to process data from vmap: 00.0162 sec
+Total processing time: 01.4651 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7607 sec
+Time to read vmap from disk: 00.0736 sec
+Time to process data from vmap: 00.0161 sec
+Total processing time: 01.4421 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8005 sec
+Time to read vmap from disk: 00.0614 sec
+Time to process data from vmap: 00.0220 sec
+Total processing time: 01.4706 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.8594 sec
+Time to read vmap from disk: 00.0807 sec
+Time to process data from vmap: 00.0163 sec
+Total processing time: 01.5094 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+RadGen version: v2.0.0
+
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+---- Generating Overview ----
+Done!
+Time to render radar: 00.7588 sec
+Time to read vmap from disk: 00.0503 sec
+Time to process data from vmap: 00.0555 sec
+Total processing time: 01.3798 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
