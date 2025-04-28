@@ -9979,3 +9979,3730 @@ If you'd like to support us, you can do so here:
 https://ko-fi.com/radgen
 
 Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <-111.99997, -1216.0001, 240>
+Processing mesh: Path, at <-287.7233, -1181.5392, 144>
+Processing mesh: Path, at <-218.91692, -1215.7274, 192>
+Processing mesh: Path, at <-303.72726, -1130.9174, 112>
+Processing mesh: Path, at <-287.72345, -1026.461, 64>
+Processing mesh: Path, at <-144, -1216.0001, 224>
+Processing mesh: Path, at <-269.5389, -1199.7236, 160>
+Processing mesh: Path, at <-246.07031, -1211.3846, 176>
+Processing mesh: Path, at <-175.99988, -1216.0001, 208>
+Processing mesh: Path, at <-303.7273, -1077.0829, 96>
+Processing mesh: Path, at <-269.5391, -1008.2766, 48>
+Processing mesh: Path, at <-218.91719, -992.2726, 16>
+Processing mesh: Path, at <-299.3844, -1049.9296, 80>
+Processing mesh: Path, at <-299.38434, -1158.0707, 128>
+Processing mesh: Path, at <-246.07056, -996.6156, 32>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 146 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 645 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1301 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 01.8369 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 02.4080 sec
+Total processing time: 02.9099 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 131 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1293 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 01.0385 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 01.5421 sec
+Total processing time: 01.9623 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 132 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1305 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.5103 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 04.1596 sec
+Total processing time: 04.5015 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 132 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1305 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 02.6892 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 03.5404 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 132 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1305 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 02.9299 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 03.7195 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+
+
+---------------------------------------------------------------------
+
+RadGen started at: 01/01/0001 00:00:00
+
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 135 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1317 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 04.4432 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 05.2940 sec
+Total processing time: 05.7976 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 135 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1317 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.4731 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 04.2685 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 135 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1214 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.2233 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 04.0103 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 135 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1214 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 02.9405 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 03.7578 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -860, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 135 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1317 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 02.9300 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 03.7476 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <1020, -736, 316>
+Processing mesh: Cover, at <1040, -816, 336>
+Processing mesh: Overlap, at <680, -88, 328>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 137 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1346 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.0243 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 03.6722 sec
+Total processing time: 03.9934 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+VMAP cache is still valid
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 254>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <1020, -736, 316>
+Processing mesh: Cover, at <1040, -816, 336>
+Processing mesh: Overlap, at <680, -88, 328>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 137 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1346 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.0861 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 00.0000 sec
+Total processing time: 03.8985 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 216>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <1020, -736, 316>
+Processing mesh: Cover, at <1040, -816, 336>
+Processing mesh: Overlap, at <680, -88, 328>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 137 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1346 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 02.9207 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 03.5702 sec
+Total processing time: 03.8805 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 216>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <1020, -736, 316>
+Processing mesh: Cover, at <1040, -816, 336>
+Processing mesh: Overlap, at <680, -88, 328>
+Processing mesh: Path, at <640, 964, 424>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 138 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1348 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 02.9572 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 03.5821 sec
+Total processing time: 03.8979 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
+
+------------------ BEGIN BUILD ------------------
+
+RadGen version: v2.2.0
+
+Checking VMAP cache
+Something has changed or this is the first build, rebuilding cache...
+---- Arguments ----
+Num of arguments provided: 6
+** Argument: -g
+ S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo
+
+** Argument: -addonname
+ de_big_apple
+
+** Argument: -vmapname
+ de_big_apple
+
+Error when attempting to access log file.
+
+---- Game Configuration Values ----
+addon name: de_big_apple
+content Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\
+game Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\
+content csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo\
+game csgo Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\
+bin Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\
+overviews image Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\panorama\images\overheadmaps\
+overviews txt Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\resource\overviews\
+vmap Filepath: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\de_big_apple.vmap
+vmap Name: de_big_apple
+vmap Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\maps\
+content addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\content\csgo_addons\de_big_apple\
+game addon Filepath Directory: S:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo_addons\de_big_apple\
+
+------------------ Generating Overview ------------------
+
+--------------- Processing entities ----------------
+
+Processing entity: Buyzone, at <-396, 1732, 336>
+Processing entity: Bombsite, at <448, -352, 96>
+Processing entity: Buyzone, at <136, -1808, 320>
+Processing entity: RadGenDivider, at <-367.92065, 1473.2267, 212>
+Processing entity: Bombsite, at <676, -1408, 340>
+
+----------------------------------------------------
+
+----------------- Processing props -----------------
+
+
+----------------------------------------------------
+
+--------------- Processing map meshes --------------
+
+Processing mesh: Cover, at <120, -472, 58>
+Processing mesh: Overlap, at <-1376, -624, 252>
+Processing mesh: Path, at <-396, 1499.8221, 256>
+Processing mesh: Cover, at <500, 88, 484>
+Processing mesh: Cover, at <1179.4167, 713.28973, 479.98212>
+Processing mesh: Cover, at <-152, 304, 352>
+Processing mesh: Cover, at <-320, 256, 312.1231>
+Processing mesh: Cover, at <-920, 452, 316>
+Processing mesh: Cover, at <-1068, 264, 292>
+Processing mesh: Cover, at <-1148, 212, 316>
+Processing mesh: Cover, at <-1468, -52, 276>
+Processing mesh: Cover, at <-868.5522, -359.3348, 300>
+Processing mesh: Cover, at <-519.079, -696.9209, 300>
+Processing mesh: Cover, at <430.07574, -735.0513, 368.3548>
+Processing mesh: Cover, at <372, -188, 340>
+Processing mesh: Cover, at <1020, -604, 392>
+Processing mesh: Cover, at <1020, -668, 392>
+Processing mesh: Cover, at <1020, -732, 392>
+Processing mesh: Cover, at <1020, -796, 392>
+Processing mesh: Cover, at <1020, -924, 392>
+Processing mesh: Cover, at <1028, -528, 332>
+Processing mesh: Cover, at <1056, -592, 312>
+Processing mesh: Cover, at <140, -32, 392>
+Processing mesh: Cover, at <976, -324, 356>
+Processing mesh: Cover, at <938, -186, 340>
+Processing mesh: Cover, at <764, -400, 380>
+Processing mesh: Cover, at <1030, 142, 450>
+Processing mesh: Cover, at <1408.9684, -105.87343, 282>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1452, -168, 56>
+Processing mesh: Cover, at <1522, -180, 76>
+Processing mesh: Cover, at <1524, -148, 144>
+Processing mesh: Cover, at <1522, -68, 164>
+Processing mesh: Cover, at <1522, -68, 76>
+Processing mesh: Cover, at <444, -462, 78>
+Processing mesh: Cover, at <162, -238, 48>
+Processing mesh: Cover, at <-24, -596, 74>
+Processing mesh: Cover, at <-447.099, -503.24084, 56>
+Processing mesh: Cover, at <-784, -12, 328>
+Processing mesh: Cover, at <510, 750, 474>
+Processing mesh: Cover, at <496, 838, 489.14175>
+Processing mesh: Cover, at <368, -176, 480>
+Processing mesh: Cover, at <144, 188, 312>
+Processing mesh: Path, at <-1376, -496.00012, 32>
+Processing mesh: Path, at <-176, 680, 288>
+Processing mesh: Path, at <-736, 372, 312>
+Processing mesh: Path, at <-1164, -8, 256>
+Processing mesh: Path, at <492, 260.02417, 460>
+Processing mesh: Path, at <20, -156, 272>
+Processing mesh: Path, at <52, 127.81946, 280>
+Processing mesh: Path, at <1024, -552.0001, 16>
+Processing mesh: Path, at <-120, 400, 272>
+Processing mesh: Path, at <128, -1262, 320>
+Processing mesh: Path, at <968, -320.00006, 80>
+Processing mesh: Path, at <976, -520.00006, 256>
+Processing mesh: Path, at <640, -880.0001, 256>
+Processing mesh: Path, at <615.9899, 656, 438>
+Processing mesh: Path, at <1072.6895, 1200, 448>
+Processing mesh: Path, at <840, 216, 352>
+Processing mesh: Path, at <544, -756.0001, 308>
+Processing mesh: Path, at <988, 248, 416>
+Processing mesh: Path, at <1128, 216, 416>
+Processing mesh: Path, at <1288, 192, 416>
+Processing mesh: Path, at <1440, 160.66669, 335.99997>
+Processing mesh: Path, at <1376, -112, 256>
+Processing mesh: Path, at <1488, 54, 274>
+Processing mesh: Path, at <1346, 86, 356>
+Processing mesh: Path, at <648, 736, 352>
+Processing mesh: Path, at <484, -252, 384>
+Processing mesh: Path, at <308, -316, 328>
+Processing mesh: Path, at <98, -494.00006, 32>
+Processing mesh: Path, at <-644, 1028.878, 256>
+Processing mesh: Path, at <-736, 247.82208, 128>
+Processing mesh: Path, at <-800, -624.0001, 32>
+Processing mesh: Path, at <-800, -464, 32>
+Processing mesh: Path, at <484, 160, 416>
+Processing mesh: Path, at <288, -160, 48>
+Processing mesh: Path, at <352, -94, 16>
+Processing mesh: Path, at <352, -236, 0>
+Processing mesh: Path, at <424, -324, 32>
+Processing mesh: Path, at <162.79388, -608.0001, 32>
+Processing mesh: Path, at <160, -692.0873, 19.956451>
+Processing mesh: Path, at <568, 520, 448>
+Processing mesh: Path, at <32, -916.0001, 0>
+Processing mesh: Path, at <544, -802.0001, 279.97803>
+Processing mesh: Path, at <636, -731.09924, 339.42615>
+Processing mesh: Path, at <-504, 352, 320>
+Processing mesh: Path, at <-399.8954, -276, 264>
+Processing mesh: Path, at <-56, -410, 312>
+Processing mesh: Path, at <684, 208, 448>
+Processing mesh: Path, at <499.22223, 327.87097, 460.06458>
+Processing mesh: Path, at <-1384, 470, 296>
+Processing mesh: Path, at <-832, 96.00006, 152>
+Processing mesh: Path, at <-1132, 96.00006, 256>
+Processing mesh: Cover, at <-504.85535, -603.3705, 56>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <768, -1676, 172>
+Processing mesh: Path, at <680, -88, 328>
+Processing mesh: Path, at <1032, 80, 328>
+Processing mesh: Cover, at <760, 48, 336>
+Processing mesh: Cover, at <760, -40, 336>
+Processing mesh: Path, at <-248, -252, 318>
+Processing mesh: Cover, at <-824, 436, 352>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <56, -464, 32>
+Processing mesh: Path, at <126, -256, 80>
+Processing mesh: Path, at <-812, -368.00006, 152>
+Processing mesh: Cover, at <540, -504, 54>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Path, at <988, -616, 16>
+Processing mesh: Path, at <-1132, 364, 328>
+Processing mesh: Cover, at <994, -1368, 288>
+Processing mesh: Cover, at <1096, -2032, 312>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <348, -400, 52>
+Processing mesh: Cover, at <320, -388, 72>
+Processing mesh: Path, at <536, -524, 16>
+Processing mesh: Path, at <104, -237.99998, 66>
+Processing mesh: Overlap, at <-1128, 608, 216>
+Processing mesh: Path, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <-1132, 364, 328>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <768, -1974.1199, 352>
+Processing mesh: Cover, at <1020, -736, 316>
+Processing mesh: Cover, at <1040, -816, 336>
+Processing mesh: Overlap, at <680, -88, 328>
+Processing mesh: Path, at <640, 964, 424>
+
+----------------------------------------------------
+
+Finished processing map
+
+
+------------------ Rendering ------------------
+
+2 radar levels with a total of 138 objects
+
+Radar level 0: 
+Name: de_big_apple_lower1_radar, .txt Name: lower1
+Max Height: 177.53903, Min Height: -0.08709717
+
+Radar level 1: 
+Name: de_big_apple_radar, .txt Name: default
+Max Height: 576, Min Height: 177.53903
+
+---- Rendering radar level: 0 ----
+
+Sorting map objects within the level
+
+Radar level contains 619 triangles
+
+Drawing opaque objects
+Drawing bombsites
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+---- Rendering radar level: 1 ----
+
+Sorting map objects within the level
+
+Radar level contains 1348 triangles
+
+Drawing opaque objects
+Drawing bombsites
+Drawing buyzones
+Drawing overlap
+
+Running compositor
+
+Done rendering level!
+
+------------------------------------
+
+-----------------------------------------------
+
+Done!
+Time to render radar: 03.1661 sec
+Time to read vmap from disk: 00.0000 sec
+Time to process data from vmap: 03.7749 sec
+Total processing time: 04.1337 sec
+
+If you'd like to support us, you can do so here:
+
+https://ko-fi.com/radgen
+
+Thanks, and enjoy!
